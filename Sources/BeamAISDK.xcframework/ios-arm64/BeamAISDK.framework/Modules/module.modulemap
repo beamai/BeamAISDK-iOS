@@ -1,0 +1,11 @@
+framework module BeamAISDK {
+  umbrella header "BeamAISDK.h"
+
+  export *
+  module * { export * }
+}
+
+module BeamAISDK.Swift {
+  header "BeamAISDK-Swift.h"
+  requires objc
+}

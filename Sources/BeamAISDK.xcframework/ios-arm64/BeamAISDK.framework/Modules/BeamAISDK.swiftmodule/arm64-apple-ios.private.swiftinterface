@@ -1,0 +1,60 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name BeamAISDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import Accelerate
+@_exported import BeamAISDK
+import CoreMotion
+import Foundation
+import SceneKit
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+public struct RuntimeError : Swift.Error {
+  public var localizedDescription: Swift.String {
+    get
+  }
+}
+public class BeamAI {
+  public init(beamID: Swift.String, frameRate: Swift.Int, window: Swift.Double, updateEvery: Swift.Double) throws
+  public func startSession()
+  public func stopSession()
+  public func startMonitoring() throws
+  public func stopMonitoring()
+  public func getEstimates() -> [Swift.String : Any]
+  public func getCameraSession() -> AVFoundation.AVCaptureSession
+  public func validate()
+  public func isValidated() -> Swift.Bool
+  @objc deinit
+}
+public var sdkObject: BeamAISDK.BeamAI?
+@_cdecl("BeamAISDK_Initialize")
+public func BeamAISDK_Initialize(_ beamIDPtr: Swift.UnsafePointer<Swift.CChar>?, frameRate: Swift.Int, window: Swift.Double, updateEvery: Swift.Double) -> Swift.Bool
+@_cdecl("BeamAISDK_StartSession")
+public func BeamAISDK_StartSession() -> Swift.Bool
+@_cdecl("BeamAISDK_StopSession")
+public func BeamAISDK_StopSession() -> Swift.Bool
+@_cdecl("BeamAISDK_StartMonitoring")
+public func BeamAISDK_StartMonitoring() -> Swift.Bool
+@_cdecl("BeamAISDK_StopMonitoring")
+public func BeamAISDK_StopMonitoring() -> Swift.Bool
+@_cdecl("BeamAISDK_GetState")
+public func BeamAISDK_GetState() -> Swift.UnsafePointer<Swift.CChar>?
+@_cdecl("BeamAISDK_GetStateDescription")
+public func BeamAISDK_GetStateDescription() -> Swift.UnsafePointer<Swift.CChar>?
+@_cdecl("BeamAISDK_GetStress")
+public func BeamAISDK_GetStress() -> Swift.Double
+@_cdecl("BeamAISDK_GetHRV")
+public func BeamAISDK_GetHRV() -> Swift.Double
+@_cdecl("BeamAISDK_GetPulseRate")
+public func BeamAISDK_GetPulseRate() -> Swift.Double
+@_cdecl("BeamAISDK_GetFrameCount")
+public func BeamAISDK_GetFrameCount() -> Swift.Int64
+@_cdecl("BeamAISDK_Validate")
+public func BeamAISDK_Validate() -> Swift.Bool
+@_cdecl("BeamAISDK_IsValidated")
+public func BeamAISDK_IsValidated() -> Swift.Bool
+@_cdecl("BeamAISDK_Nullify")
+public func BeamAISDK_Nullify()
