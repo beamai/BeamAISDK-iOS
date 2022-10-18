@@ -6,11 +6,11 @@
 	<dict>
 		<key>ARCoreFaceResources.bundle/Info.plist</key>
 		<data>
-		wmXwGNIxSv2LEu9ozo3TQGnGgbo=
+		qI9GqK8xWXc3SHVM2JmWbI2L1Fk=
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		mUt1q+tKn5akC2vGTgjcJNknBqM=
+		Dp4cqVOi2N/J4VQ4doRJZgjtBXc=
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		d/xtmeHs+XZBpYxfQ9u1kyoCp8g=
+		hXlRQpqx9JPlTLTEdfV7/y0r8lQ=
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		BtdTWIaofEMgr732RBPzWILKoq8=
+		0zxX5wZV7R0IUGfm9ElruEzms+Q=
 		</data>
 		<key>ARCoreFaceResources.bundle/aimatter_mesh_468_video.binarypb</key>
 		<data>
@@ -44,29 +44,17 @@
 		<data>
 		zIFh+5oRLJAwAtMjo7qCc3pGJWw=
 		</data>
-		<key>ComodoCaLimitedRsaCertificationAuthority.der</key>
-		<data>
-		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
-		</data>
-		<key>ComodoRsaCA.der</key>
-		<data>
-		9a0LzBrVbNFQclschmwwrZLvIbA=
-		</data>
-		<key>ComodoRsaDomainValidationCA.der</key>
-		<data>
-		M5zdV8/VsUEWm2Ff8xQoeC0dpjk=
-		</data>
 		<key>Frameworks/Pods_BeamAISDK.framework/Info.plist</key>
 		<data>
 		xeb+uwVK+0nOi+uRNOwcwS8dOfI=
 		</data>
 		<key>Frameworks/Pods_BeamAISDK.framework/Pods_BeamAISDK</key>
 		<data>
-		wqZHpLYDumxfA6K2Si0DCnxwbjk=
+		QoTi4Z4mtKRWWveB7HFv14FrZQg=
 		</data>
 		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		k5mXB21rByJ+LxILBfNGJ9+s7O4=
+		oyytvDmh+eN3LGZHlN6xC//XK5s=
 		</data>
 		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -74,7 +62,7 @@
 		</data>
 		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		oHTAsqagcKtPLu7jhs+mGak+uhs=
+		ULdTUdBAmkWIzH9VQT5Y0nlV7go=
 		</data>
 		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -82,7 +70,7 @@
 		</data>
 		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		dnxVyljO1reHQUER4D0Eeu49YL0=
+		oYd4U+zhD4B5BSWMWoP+X9IbMYo=
 		</data>
 		<key>Headers/BeamAISDK-Swift.h</key>
 		<data>
@@ -98,7 +86,7 @@
 		</data>
 		<key>Modules/BeamAISDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		26GKxxEA9EBoTqyLezIa2BncAMs=
+		htmWgBbWMDfPo3RWdFNVgGB2EFA=
 		</data>
 		<key>Modules/BeamAISDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -114,15 +102,11 @@
 		</data>
 		<key>Modules/BeamAISDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qRLZo1tfe3fJe7gmb5OqZY/DQ0g=
+		Ncx/nJ8VWS8Dw2MKHXsVujHyK90=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		mrHuXgjfBBoCpGec+f2XlCIrk5o=
-		</data>
-		<key>api.amplitude.com.der</key>
-		<data>
-		n9YpBELbR1u+IpU/FBMogiokdgY=
 		</data>
 		<key>default.metallib</key>
 		<data>
@@ -135,14 +119,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			70jufbkNM9miV1lXsRfQJx3HWoRMpv3Ciz7tUuc+4WY=
+			tGItdv3KOklEPvps0Shl2u7RNSyW6UAmckbcXAvH4m4=
 			</data>
 		</dict>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kZu82bEiVtKrlvYbJoAEwjGQtpM+PBNLrnatDz1XpqA=
+			muevP7vaaXMtm6A5o0s5NHlFTVcNh5GoHn7Yt7Zo/PY=
 			</data>
 		</dict>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -156,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UpLkbyC5ItOF2SkhVaQWHnaa790mFav3q84jBa0rZ3A=
+			2lI3ij2lEG2vHGQ2pxXBEK+nC8jUbwC7lIWhxf+lMIc=
 			</data>
 		</dict>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeResources</key>
@@ -170,7 +154,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p0Rw1E8vYIVqsob9vrJqI9JfgaUu9hGeF9nNs3XWLw4=
+			WnNZA2GmRkVT8/56LXM/FNXfFeSwwfZ8iUD0P512CJM=
 			</data>
 		</dict>
 		<key>ARCoreFaceResources.bundle/aimatter_mesh_468_video.binarypb</key>
@@ -201,27 +185,6 @@
 			xgP6YUkhmj6Uh9yavXoMJEdMdyYyc9JIaDeM30CqJtE=
 			</data>
 		</dict>
-		<key>ComodoCaLimitedRsaCertificationAuthority.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
-			</data>
-		</dict>
-		<key>ComodoRsaCA.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TzLV3AD3FSUKvMSGUR439QGomd6zv36orbvTrvHEEto=
-			</data>
-		</dict>
-		<key>ComodoRsaDomainValidationCA.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AqtX5OZ6DLSN0v80gw6KxA9EdvsIymvj9c2Eb2RoQPA=
-			</data>
-		</dict>
 		<key>Frameworks/Pods_BeamAISDK.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -233,14 +196,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nG92/WuatE1kwVic4pljmgNOb01SBIQ8gYwMHD13D3w=
+			VWpF4z3X/2BChcqg38RJM9FX3idMma0dg4hhmBOj8RY=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			16Sc3E6BDbmMrqsq2tD/40mfuqGppqZuWvYP7GTMurI=
+			JogI4Uu2Qk+13dJUPf0eZQx6e4XnDJssfvdJjWYxeQE=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeRequirements</key>
@@ -254,7 +217,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UBp55ccF3sGPLNbeF5q6nCmNglmHYePn955lYvb1wQw=
+			VVDQu77bSavsDp5f34HvVNmTSj5wlcsZP1+EsJqVrxE=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeResources</key>
@@ -268,7 +231,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			szXx45Fy7K99zSyYCwPhU0wpFlKPgzncI2MNttm8DG4=
+			cuk7ZvUkLP23cF1/VyDJRmeovnf5KhWuzGAQSMGvIHA=
 			</data>
 		</dict>
 		<key>Headers/BeamAISDK-Swift.h</key>
@@ -289,7 +252,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XBEonEFcsSxVVUovUnnizD01y27Oqf3VGzI1Cl0/GE8=
+			MlRivpI8rpqw7ar7bA0B3TxyC5o4Sq2W8zMIQeUaVUA=
 			</data>
 		</dict>
 		<key>Modules/BeamAISDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -317,7 +280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HlvWuLQt5ODZoa0hdghiZfXqq7S0Ng8rz17mMx5Z1Ag=
+			04XNjJ3C1ytT1houdUe80sxPcWimy3ho1NARHvTWuV4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -325,13 +288,6 @@
 			<key>hash2</key>
 			<data>
 			YKt0SDQ7rVafkn3JqI1YRT+5Um1WRZtGg2+3zHz1ozo=
-			</data>
-		</dict>
-		<key>api.amplitude.com.der</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JGQ8nwCp0cZ3dzZ8VTDdfxN5ev/vAtmqwNJsoEuVvAk=
 			</data>
 		</dict>
 		<key>default.metallib</key>

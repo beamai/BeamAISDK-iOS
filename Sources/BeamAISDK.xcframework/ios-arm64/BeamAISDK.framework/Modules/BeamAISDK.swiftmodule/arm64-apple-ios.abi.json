@@ -915,16 +915,6 @@
       },
       {
         "kind": "Import",
-        "name": "Amplitude_iOS",
-        "printedName": "Amplitude_iOS",
-        "declKind": "Import",
-        "moduleName": "BeamAISDK",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
