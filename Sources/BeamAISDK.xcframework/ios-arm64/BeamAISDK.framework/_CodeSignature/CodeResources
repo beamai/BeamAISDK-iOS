@@ -6,11 +6,11 @@
 	<dict>
 		<key>ARCoreFaceResources.bundle/Info.plist</key>
 		<data>
-		qI9GqK8xWXc3SHVM2JmWbI2L1Fk=
+		OeuVtcs6rhWOvTkUoIK77mgkejc=
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		Dp4cqVOi2N/J4VQ4doRJZgjtBXc=
+		zPsppY11JRCIOIezHvvFW0H/7WY=
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		hXlRQpqx9JPlTLTEdfV7/y0r8lQ=
+		dxIym7z/Zn1lNINvBDVj17q0KaY=
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		0zxX5wZV7R0IUGfm9ElruEzms+Q=
+		wr6Bf6TMjlTUd4+Nl6DU7eyogHg=
 		</data>
 		<key>ARCoreFaceResources.bundle/aimatter_mesh_468_video.binarypb</key>
 		<data>
@@ -44,34 +44,6 @@
 		<data>
 		zIFh+5oRLJAwAtMjo7qCc3pGJWw=
 		</data>
-		<key>Frameworks/Pods_BeamAISDK.framework/Info.plist</key>
-		<data>
-		xeb+uwVK+0nOi+uRNOwcwS8dOfI=
-		</data>
-		<key>Frameworks/Pods_BeamAISDK.framework/Pods_BeamAISDK</key>
-		<data>
-		QoTi4Z4mtKRWWveB7HFv14FrZQg=
-		</data>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeDirectory</key>
-		<data>
-		oyytvDmh+eN3LGZHlN6xC//XK5s=
-		</data>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeRequirements</key>
-		<data>
-		3ChOvtDh1UrcIA53PFC9B156yYE=
-		</data>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		ULdTUdBAmkWIzH9VQT5Y0nlV7go=
-		</data>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		3BY+bzxuppjbSM8VvqiatN+AO5g=
-		</data>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeSignature</key>
-		<data>
-		oYd4U+zhD4B5BSWMWoP+X9IbMYo=
-		</data>
 		<key>Headers/BeamAISDK-Swift.h</key>
 		<data>
 		BsKdwDvS/Lv2D1W7RmMdWlDSJG8=
@@ -82,11 +54,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xaEQK9tul4vP/IpjFsR+5kWdRGg=
+		toF8+ijpMeY2XBizYGwMW0Vsiyw=
 		</data>
 		<key>Modules/BeamAISDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		htmWgBbWMDfPo3RWdFNVgGB2EFA=
+		/04eduk9drPq9mnSZS+c5RLNGCU=
 		</data>
 		<key>Modules/BeamAISDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -102,7 +74,7 @@
 		</data>
 		<key>Modules/BeamAISDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ncx/nJ8VWS8Dw2MKHXsVujHyK90=
+		YcvmuF97gbSoZN+vC4Bwl4iIvcs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,14 +91,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tGItdv3KOklEPvps0Shl2u7RNSyW6UAmckbcXAvH4m4=
+			DIOIIGOqhU8lFatFNi/z0VGHb2B/mr0/RrFhEDKUV2g=
 			</data>
 		</dict>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			muevP7vaaXMtm6A5o0s5NHlFTVcNh5GoHn7Yt7Zo/PY=
+			ILNhcM5+4w74yNCrAORgyZgxvPpSiaAG4fXJcj4+pr8=
 			</data>
 		</dict>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -140,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2lI3ij2lEG2vHGQ2pxXBEK+nC8jUbwC7lIWhxf+lMIc=
+			cyxKDUYn3PYtwAzIfTaeTiRPHzeb+hmY4QjgelXv8sI=
 			</data>
 		</dict>
 		<key>ARCoreFaceResources.bundle/_CodeSignature/CodeResources</key>
@@ -154,7 +126,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WnNZA2GmRkVT8/56LXM/FNXfFeSwwfZ8iUD0P512CJM=
+			1vokn5HY0V56Djxh6c5z5jBqe571FyBWyMTabeEY/Ps=
 			</data>
 		</dict>
 		<key>ARCoreFaceResources.bundle/aimatter_mesh_468_video.binarypb</key>
@@ -185,55 +157,6 @@
 			xgP6YUkhmj6Uh9yavXoMJEdMdyYyc9JIaDeM30CqJtE=
 			</data>
 		</dict>
-		<key>Frameworks/Pods_BeamAISDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QIjGhd1nAiPWJ/qm+NwK6xtEdyEHcvH8A0j2qS7/a34=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_BeamAISDK.framework/Pods_BeamAISDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VWpF4z3X/2BChcqg38RJM9FX3idMma0dg4hhmBOj8RY=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JogI4Uu2Qk+13dJUPf0eZQx6e4XnDJssfvdJjWYxeQE=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y6Bpk8BuCavDzEweMyBG1htz0p+4bIFBtpLyuQcIaRk=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VVDQu77bSavsDp5f34HvVNmTSj5wlcsZP1+EsJqVrxE=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LMeSKAOYD5sLo0d9IqhcZHGg7Z3IXQKtbnzT3OmUUIs=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_BeamAISDK.framework/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cuk7ZvUkLP23cF1/VyDJRmeovnf5KhWuzGAQSMGvIHA=
-			</data>
-		</dict>
 		<key>Headers/BeamAISDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -252,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MlRivpI8rpqw7ar7bA0B3TxyC5o4Sq2W8zMIQeUaVUA=
+			vShPIgx13TW3gfKOD13i0gJnmbA0KXEyeh+QcUgFLlA=
 			</data>
 		</dict>
 		<key>Modules/BeamAISDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -280,7 +203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			04XNjJ3C1ytT1houdUe80sxPcWimy3ho1NARHvTWuV4=
+			+iFQLx/5QOiPRi/do3qsD0T2OSUcfLd4XXqXxgUkmg4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
