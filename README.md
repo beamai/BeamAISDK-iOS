@@ -177,7 +177,7 @@ We are working on an Android SDK to enable monitoring of the user's heart rate, 
 **How much does the Beam AI SDK cost?**
 Please see our [SDK Pricing](https://www.beamhealth.ai/index.html#site-pricing) for more details.
 
-**I am experience issues when using the Beam AI SDK and Firebase in the same app. Why is that?**
+**I am experiencing issues when using the Beam AI SDK and Firebase in the same app. Why is that?**
 
 Firebase has some conflicting dependencies with the stand-alone build of the Beam AI SDK (iOS). We have fixed this in the "modular" Beam AI SDK (iOS) that is available on the ```modular``` branch of this repo.
 
