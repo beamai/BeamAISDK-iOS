@@ -179,7 +179,7 @@ We are working on an Android SDK to enable monitoring of the user's heart rate, 
 **How much does the Beam AI SDK cost?**
 Please see our [SDK Pricing](https://www.beamhealth.ai/index.html#site-pricing) for more details.
 
-## Licence Agreement & Privacy Policy
+## SDK Licence Agreement & Privacy Policy
 
 By using Beam AI SDK (iOS) and any accompanying documentation and tools, you declare that you have read, understood, and agreed to our [SDK Licence Agreement](https://www.beamhealth.ai/sdk-licence-agreement.html), [Terms of Service](https://www.beamhealth.ai/terms-of-service.html) and [Privacy Policy](https://www.beamhealth.ai/privacy-policy.html). Furthermore, as the Beam AI SDK is partly built using Google's ARCore Augmented Faces library, you are agreeing to their license agreement and privacy policy as outlined at [https://github.com/google-ar/arcore-ios-sdk](https://github.com/google-ar/arcore-ios-sdk).
 
