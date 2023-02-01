@@ -16,7 +16,7 @@ By using Beam AI SDK (iOS) and any accompanying documentation and tools, you dec
 
 First, please add the Beam AI SDK swift package from the ```modular``` branch (from this repository) to your Xcode project. Simply click File > Add Packages. Then, look up [https://github.com/beamai/BeamAISDK-iOS/](https://github.com/beamai/BeamAISDK-iOS/), select dependency rule to be branch, type in ```modular``` and then click + to add the Beam AI SDK package to your project.
 
-Then, install the dependency ```pod 'GoogleToolboxForMac'``` with cocopods. Note that this build require a cocopod set up, xcworkspace, and installation of ```GoogleToolboxForMac``` as a dependency. For a standalone build of the Beam AI SDK (iOS), please visit the main branch of this repository.
+Then, install the dependencies ```pod 'GoogleToolboxForMac'``` and ```pod 'GoogleDataTransport'``` with cocopods. Note that this build require a cocopod set up, xcworkspace, and installation of ```GoogleToolboxForMac``` and ```'GoogleDataTransport'``` as dependencies. For a standalone build of the Beam AI SDK (iOS), please visit the main branch of this repository.
 
 You can initialize an instance of the SDK as noted below.
 
